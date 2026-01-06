@@ -1,0 +1,27 @@
+{
+  "name": "hoidanit-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs pro hoidanit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhanhNgyn/HoiDanIT-NodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "khanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhanhNgyn/HoiDanIT-NodeJS/issues"
+  },
+  "homepage": "https://github.com/KhanhNgyn/HoiDanIT-NodeJS#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
+}
